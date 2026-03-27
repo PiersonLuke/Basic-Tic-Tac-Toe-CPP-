@@ -26,7 +26,7 @@ int main()
         }
     }
 
-    std::cout << "Tik Tak Toe\n";
+    std::cout << "Tic Tac Toe\n";
     std::cout << "Enter a row and then enter a column\n";
     std::cout << "Format: x y (Index starts at 1)\n";
     
