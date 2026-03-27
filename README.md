@@ -1,4 +1,4 @@
-# Basic-Tik-Tak-Toe-CPP-
+# Basic-Tic-Tac-Toe-CPP-
 I made this project to practice basic C++ programming concepts:
 
 - Arrays
